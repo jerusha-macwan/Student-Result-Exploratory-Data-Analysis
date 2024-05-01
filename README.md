@@ -1,6 +1,6 @@
  **Student-Result-Exploratory-Data-Analysis**
 
-This dataset includes scores from three test scores of students at a (fictional) public school and variety of personal and socio economic factors that may have effects have on them. 
+This dataset includes scores from three test scores of students at a (fictional) public school and variety of personal and socio economic factors that may have effects on them. 
 
 **Data Dictionary (column description)**
 1. Gender: Gender of the student (male / female)
